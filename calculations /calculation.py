@@ -15,3 +15,4 @@ prijsPerpersoon = 7.45
 Viptijd = 9
 VipPrijs = 0.37
 #Berekening = 9*0.37
+
